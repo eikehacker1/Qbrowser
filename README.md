@@ -15,11 +15,5 @@ later install PyQt5 using pip
 
 pip install PyQt5
 
-python main.py
-
-step for windows 
-
-disconpacting the archives .zip 
-
-execute the archive .exe
+python3 main.py
 
